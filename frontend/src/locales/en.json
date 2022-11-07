@@ -1,0 +1,7 @@
+{
+    "title": "URL to QR",
+    "description": "Simple way to shorten your URL with QR Code",
+    "input": "Enter your URL here",
+    "after": "Here is your QR Code ✨",
+    "create": "Create"
+}

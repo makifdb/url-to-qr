@@ -1,0 +1,7 @@
+{
+    "title": "URL ile QR",
+    "description": "QR Kod ile URL kısaltmanın basit bir yolu",
+    "input": "URL'inizi buraya yazın",
+    "after": "İşte QR Kodun ✨",
+    "create": "Oluştur"
+}
