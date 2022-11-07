@@ -1,4 +1,4 @@
-# Url to QR
+# URL to QR
 
 Just a simple project for school, nothing interesting
 
