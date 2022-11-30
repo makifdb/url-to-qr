@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^1.2.0",
     "dayjs": "^1.11.6",
-    "tw-elements": "^1.0.0-alpha12",
+    "tw-elements": "^1.0.0-alpha13",
     "vue": "^3.2.45",
     "vue-color-input": "^1.0.6",
     "vue-i18n": "^9.2.2",
