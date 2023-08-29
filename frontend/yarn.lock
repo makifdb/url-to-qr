@@ -1126,10 +1126,10 @@ ts-interface-checker@^0.1.9:
   resolved "https://registry.yarnpkg.com/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz#784fd3d679722bc103b1b4b8030bcddb5db2a699"
   integrity sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==
 
-tw-elements@^1.0.0-beta3:
-  version "1.0.0-beta3"
-  resolved "https://registry.yarnpkg.com/tw-elements/-/tw-elements-1.0.0-beta3.tgz#80d9e0874f7328a546f052b36861ca4253fc8702"
-  integrity sha512-fz4zIsetP4KGDjMXWWpcUs8avteMnSu8ilGvo8LGgixeIlcwl2ZEOpK93HfVFYmTCO4N0YdpZ5quNNom67xxFw==
+tw-elements@^1.0.0-rc.1:
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/tw-elements/-/tw-elements-1.0.0-rc.1.tgz#e8c1d90c84680bf27a6a8dd7d28cf4a6088bfcd4"
+  integrity sha512-BaUgHZpOzAtw/+CxLvp76iF2HsD0brWmZbqWKD/IpelI6y1RVi40K9401CgNpdKr4irsOTglHH/zAViQAcATKw==
   dependencies:
     "@popperjs/core" "^2.6.0"
     chart.js "^3.7.1"
