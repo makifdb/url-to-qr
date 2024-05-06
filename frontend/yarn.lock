@@ -1027,10 +1027,10 @@ vite@^3.2.5:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vue-color-input@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/vue-color-input/-/vue-color-input-1.0.8.tgz#fd66ab63dba852c768e2cec266af9ae6e88bf0e7"
-  integrity sha512-oGYv4utF7ihKrMw3l6tQMgTsaVF+y6oDd37nP8r8K5od8/nVG0p9HOme8IHgw6Q6P0Pa9d9zYmLqT0DWFEBHQA==
+vue-color-input@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/vue-color-input/-/vue-color-input-1.0.9.tgz#d41ebb163db1b6fbaf07b42b6bffdec995c695e2"
+  integrity sha512-nZUbcZ5NOxxhtVZLF1ik2R6pTQUngApiU2ByUSoEDuIBxRJgrP75jEkd9kIMap1HoL9AdEJBePmiLH+jKAFETw==
   dependencies:
     tinycolor2 "^1.4.2"
 
