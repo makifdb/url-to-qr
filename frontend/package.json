@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^1.7.2",
-    "dayjs": "^1.11.11",
+    "dayjs": "^1.11.12",
     "tw-elements": "^2.0.0",
     "vue": "^3.4.32",
     "vue-color-input": "^1.0.9",
