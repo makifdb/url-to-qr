@@ -14,7 +14,7 @@
     "vue": "^3.4.35",
     "vue-color-input": "^2.0.0",
     "vue-i18n": "^9.13.1",
-    "vue-router": "^4.4.1",
+    "vue-router": "^4.4.2",
     "vuex": "^4.1.0"
   },
   "devDependencies": {
