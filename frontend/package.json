@@ -24,7 +24,7 @@
     "@tailwindcss/typography": "^0.5.16",
     "@vitejs/plugin-vue": "^3.2.0",
     "autoprefixer": "^10.4.20",
-    "postcss": "^8.5.2",
+    "postcss": "^8.5.3",
     "tailwindcss": "^4.0.8",
     "vite": "^3.2.5"
   }
