@@ -23,7 +23,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tailwindcss/typography": "^0.5.19",
     "@vitejs/plugin-vue": "^3.2.0",
-    "autoprefixer": "^10.4.24",
+    "autoprefixer": "^10.4.27",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.2.1",
     "vite": "^3.2.5"
